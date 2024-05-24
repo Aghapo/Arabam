@@ -64,7 +64,7 @@
             this.circularProgressBar1.TabIndex = 3;
             this.circularProgressBar1.Text = "Yükleniyor";
             this.circularProgressBar1.TextMargin = new System.Windows.Forms.Padding(8, 8, 0, 0);
-            this.circularProgressBar1.Value = 90;
+            this.circularProgressBar1.Value = 95;
             // 
             // YüklemeEkranı
             // 
